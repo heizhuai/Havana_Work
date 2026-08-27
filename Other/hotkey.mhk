@@ -1,0 +1,106 @@
+//Maya Preference 2024 (Release 1)
+//
+//
+
+//
+// The runtime commands referenced by the hotkeys
+//
+//
+// The name commands referenced by the hotkeys
+//
+nameCommand
+	-annotation "DeleteHistoryNameCommand"
+	-sourceType "mel"
+	-command ("DeleteHistory")
+	DeleteHistoryNameCommand;
+
+nameCommand
+	-annotation "FreezeTransformationsNameCommand"
+	-sourceType "mel"
+	-command ("FreezeTransformations")
+	FreezeTransformationsNameCommand;
+
+nameCommand
+	-annotation "CenterPivotNameCommand"
+	-sourceType "mel"
+	-command ("CenterPivot")
+	CenterPivotNameCommand;
+
+nameCommand
+	-annotation "dR_selectModeMarqueeNameCommand"
+	-sourceType "mel"
+	-command ("dR_selectModeMarquee")
+	dR_selectModeMarqueeNameCommand;
+
+nameCommand
+	-annotation "dR_selectModeRaycastNameCommand"
+	-sourceType "mel"
+	-command ("dR_selectModeRaycast")
+	dR_selectModeRaycastNameCommand;
+
+nameCommand
+	-annotation "dR_connectToolNameCommand"
+	-sourceType "mel"
+	-command ("dR_connectTool")
+	dR_connectToolNameCommand;
+
+nameCommand
+	-annotation "ExportSelectionNameCommand"
+	-sourceType "mel"
+	-command ("ExportSelection")
+	ExportSelectionNameCommand;
+
+nameCommand
+	-annotation "ExportSelectionOptionsNameCommand"
+	-sourceType "mel"
+	-command ("ExportSelectionOptions")
+	ExportSelectionOptionsNameCommand;
+
+//
+// The user hotkeys
+//
+//
+// The hotkey set
+//
+hotkeySet -source "Maya_Default" -current hotkey1;
+//
+// The hotkey contexts and hotkeys
+//
+hotkey -keyShortcut "e" -ctl -alt -name ("");
+hotkey -keyShortcut "x" -alt -name ("FreezeTransformationsNameCommand");
+hotkey -keyShortcut "d" -alt -sht -name ("");
+hotkey -keyShortcut "e" -alt -sht -name ("ExportSelectionNameCommand");
+hotkey -keyShortcut "z" -name ("");
+hotkey -keyShortcut "0" -releaseName ("HfAttrSelect_Menu_revert");
+hotkey -keyShortcut "2" -alt -name ("dR_selectModeRaycastNameCommand");
+hotkey -keyShortcut "1" -alt -name ("dR_selectModeMarqueeNameCommand");
+hotkey -keyShortcut "0" -name ("HfAttrSelect_Menu");
+hotkey -keyShortcut "Space" -ctl -name ("");
+hotkey -keyShortcut "z" -alt -name ("DeleteHistoryNameCommand");
+hotkey -keyShortcut "q" -alt -releaseName ("");
+hotkey -keyShortcut "q" -alt -name ("");
+hotkey -keyShortcut "Space" -ctl -sht -name ("ToggleUIElementsNameCommand");
+hotkey -keyShortcut "Return" -name ("");
+hotkey -keyShortcut "f" -alt -name ("dR_connectToolNameCommand");
+hotkey -keyShortcut "e" -ctl -alt -sht -name ("ExportSelectionOptionsNameCommand");
+hotkey -keyShortcut "d" -alt -name ("CenterPivotNameCommand");
+hotkey -keyShortcut "w" -ctl -name ("");
+hotkeyCtx -type "Editor" -addClient "hyperGraphPanel";
+hotkeyCtx -type "Editor" -addClient "profilerPanel";
+hotkeyCtx -type "Editor" -addClient "graphEditor";
+hotkeyCtx -type "Editor" -addClient "cteEditor";
+hotkeyCtx -type "Editor" -addClient "shapePanel";
+hotkeyCtx -type "Editor" -addClient "hyperShadePanel";
+hotkeyCtx -type "Editor" -addClient "nodeEditorPanel";
+hotkeyCtx -type "Editor" -addClient "timeEditorPanel";
+hotkeyCtx -type "Editor" -addClient "posePanel";
+hotkeyCtx -type "Editor" -addClient "outlinerPanel";
+hotkeyCtx -type "Editor" -addClient "polyTexturePlacementPanel";
+hotkeyCtx -type "Tool" -addClient "polyCutUV";
+hotkeyCtx -type "Tool" -addClient "texCutContext";
+hotkeyCtx -type "Tool" -addClient "xgmIGBrush";
+hotkeyCtx -type "Tool" -addClient "bpDraw";
+hotkeyCtx -type "Tool" -addClient "sculptMeshCache";
+hotkeyCtx -type "Tool" -addClient "texSculptCacheContext";
+hotkeyCtx -type "Tool" -addClient "Unfold3DBrush";
+hotkeyCtx -type "Tool" -addClient "SymmetrizeUVBrush";

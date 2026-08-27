@@ -1,0 +1,40 @@
+# ============================================================================
+# Unreal Engine - Havana_Work
+# ============================================================================
+
+# --- Generated / derived folders (NEVER commit) ---
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Build/
+Script/
+
+# Visual Studio / Rider
+.vs/
+.idea/
+*.sln
+*.suo
+*.user
+
+# --- Derived lighting / build data inside Content (regenerated on build) ---
+# These *_BuiltData.uasset files are produced by the lighting build step and can
+# be huge; they are regenerated locally, so we keep them out of version control.
+*_BuiltData.uasset
+
+# --- Python caches (never commit) ---
+__pycache__/
+*.pyc
+*.pyo
+
+# --- OS / misc ---
+.DS_Store
+Thumbs.db
+*.log
+*~
+
+# --- Local project settings we don't need to share ---
+Saved/Config/*.ini
+Saved/Logs/
+Saved/Crashes/
+Saved/Autosaves/

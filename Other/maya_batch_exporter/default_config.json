@@ -1,0 +1,95 @@
+{
+    "UE5": {
+        "description": "Unreal Engine 5 静态网格导出预设",
+        "fbx_settings": {
+            "ascii": false,
+            "triangulate": true,
+            "smooth_mesh": true,
+            "tangent_space": true,
+            "bake_animation": false,
+            "smoothing_groups": true,
+            "embed_media": false,
+            "export_materials": false,
+            "export_textures": false,
+            "up_axis": "y",
+            "units": "cm",
+            "fbx_version": "FBX 2020"
+        },
+        "preprocess": {
+            "freeze_transform": true,
+            "delete_history": true,
+            "center_pivot": false
+        },
+        "naming": {
+            "preset": "UE5",
+            "pattern": "{prefix}_{category}_{name}_{variant}"
+        },
+        "path_mapping": {
+            "subfolder_by_category": true,
+            "create_subfolders": ["StaticMesh", "SkeletalMesh"],
+            "default_category": "StaticMesh"
+        }
+    },
+    "Unity": {
+        "description": "Unity 静态网格导出预设",
+        "fbx_settings": {
+            "ascii": false,
+            "triangulate": true,
+            "smooth_mesh": false,
+            "tangent_space": true,
+            "bake_animation": false,
+            "smoothing_groups": true,
+            "embed_media": false,
+            "export_materials": true,
+            "export_textures": true,
+            "up_axis": "y",
+            "units": "cm",
+            "fbx_version": "FBX 2014"
+        },
+        "preprocess": {
+            "freeze_transform": true,
+            "delete_history": true,
+            "center_pivot": false
+        },
+        "naming": {
+            "preset": "Unity",
+            "pattern": "{prefix}_{category}_{name}_{variant}"
+        },
+        "path_mapping": {
+            "subfolder_by_category": true,
+            "create_subfolders": ["Models", "Materials"],
+            "default_category": "Models"
+        }
+    },
+    "Custom": {
+        "description": "自定义预设 — 基础设置，可编辑",
+        "fbx_settings": {
+            "ascii": false,
+            "triangulate": true,
+            "smooth_mesh": false,
+            "tangent_space": true,
+            "bake_animation": false,
+            "smoothing_groups": true,
+            "embed_media": false,
+            "export_materials": false,
+            "export_textures": false,
+            "up_axis": "y",
+            "units": "cm",
+            "fbx_version": "FBX 2020"
+        },
+        "preprocess": {
+            "freeze_transform": false,
+            "delete_history": false,
+            "center_pivot": false
+        },
+        "naming": {
+            "preset": "Custom",
+            "pattern": "{prefix}_{name}_{variant}"
+        },
+        "path_mapping": {
+            "subfolder_by_category": false,
+            "create_subfolders": [],
+            "default_category": ""
+        }
+    }
+}
