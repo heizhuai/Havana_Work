@@ -38,3 +38,6 @@ Saved/Config/*.ini
 Saved/Logs/
 Saved/Crashes/
 Saved/Autosaves/
+
+# --- WorkBuddy local memory / workspace data (not part of the project) ---
+.workbuddy/
