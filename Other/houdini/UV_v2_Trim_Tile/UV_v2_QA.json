@@ -1,0 +1,150 @@
+{
+  "B01_Door_01": {
+    "asset": "B01_Door_01",
+    "geometry_matches_original": true,
+    "channels": {
+      "UV0_TrimSheet": {
+        "triangles": 27300,
+        "zero_triangles": 0,
+        "folded_polygons": 0,
+        "negative_triangles": 16645,
+        "density_min": 3.786516213664316,
+        "density_max": 913.1209454031315,
+        "density_area_weighted": 516.6742535012669,
+        "area_m2": 23.422364178283868,
+        "large_face_density_min": 361.88605891542596,
+        "large_face_density_max": 636.5419609550562,
+        "polygons_below_area_eps": [],
+        "area_within_10_percent": 23.00764027127348,
+        "primary_area": 21.843533751671202,
+        "primary_area_within_10_percent": 21.78880919876974,
+        "v_outside_unit_range": 0,
+        "u_range": [
+          -5.659685164971506e-09,
+          0.8410499691963196
+        ]
+      },
+      "UV1_Tile": {
+        "triangles": 27300,
+        "zero_triangles": 0,
+        "folded_polygons": 0,
+        "negative_triangles": 16642,
+        "density_min": 2.262560183481524,
+        "density_max": 913.1249973896013,
+        "density_area_weighted": 516.674250456253,
+        "area_m2": 23.422364178283868,
+        "large_face_density_min": 362.0132462313817,
+        "large_face_density_max": 636.5100607523573,
+        "polygons_below_area_eps": [],
+        "area_within_10_percent": 23.00764038578466,
+        "primary_area": 21.843533751671202,
+        "primary_area_within_10_percent": 21.78880919876974,
+        "v_outside_unit_range": 0,
+        "u_range": [
+          -5.659685164971506e-09,
+          0.8410499691963196
+        ]
+      },
+      "UV2_UniqueBake": {
+        "triangles": 27300,
+        "zero_triangles": 0,
+        "folded_polygons": 0,
+        "negative_triangles": 16708,
+        "density_min": 4.617174205251227,
+        "density_max": 511.48103003350764,
+        "density_area_weighted": 289.4652065141835,
+        "area_m2": 23.422364178283868,
+        "large_face_density_min": 202.5248508452128,
+        "large_face_density_max": 356.57669171263353,
+        "polygons_below_area_eps": [],
+        "area_within_10_percent": 3.1505144612253844e-05,
+        "primary_area": 21.843533751671202,
+        "primary_area_within_10_percent": 0,
+        "v_outside_unit_range": 0,
+        "u_range": [
+          0.0039062246214598417,
+          0.969455361366272
+        ]
+      }
+    },
+    "objects": {},
+    "unique_bake_overlap_pairs": 0,
+    "material_slots": 0,
+    "uv2_bounds_violations": 0,
+    "trim_v_guard_violations": 0
+  },
+  "B01_Window_01": {
+    "asset": "B01_Window_01",
+    "geometry_matches_original": true,
+    "channels": {
+      "UV0_TrimSheet": {
+        "triangles": 27756,
+        "zero_triangles": 0,
+        "folded_polygons": 0,
+        "negative_triangles": 17837,
+        "density_min": 1.3938830813048377,
+        "density_max": 1022.7126189359977,
+        "density_area_weighted": 516.7246532941426,
+        "area_m2": 23.651432627222086,
+        "large_face_density_min": 361.88616704672097,
+        "large_face_density_max": 706.1599010009584,
+        "polygons_below_area_eps": [],
+        "area_within_10_percent": 23.221882780838932,
+        "primary_area": 22.140189872006886,
+        "primary_area_within_10_percent": 22.082873693550937,
+        "v_outside_unit_range": 0,
+        "u_range": [
+          0.0,
+          0.6615000367164612
+        ]
+      },
+      "UV1_Tile": {
+        "triangles": 27756,
+        "zero_triangles": 0,
+        "folded_polygons": 0,
+        "negative_triangles": 17839,
+        "density_min": 0.903599664125495,
+        "density_max": 1022.6564254514526,
+        "density_area_weighted": 516.7246692742398,
+        "area_m2": 23.651432627222086,
+        "large_face_density_min": 362.0124440353888,
+        "large_face_density_max": 706.1435059392333,
+        "polygons_below_area_eps": [],
+        "area_within_10_percent": 23.22189116619313,
+        "primary_area": 22.140189872006886,
+        "primary_area_within_10_percent": 22.082873693550937,
+        "v_outside_unit_range": 0,
+        "u_range": [
+          0.0,
+          0.6615000367164612
+        ]
+      },
+      "UV2_UniqueBake": {
+        "triangles": 27756,
+        "zero_triangles": 0,
+        "folded_polygons": 0,
+        "negative_triangles": 17916,
+        "density_min": 2.3527461961811342,
+        "density_max": 613.6232773165341,
+        "density_area_weighted": 310.0919932318559,
+        "area_m2": 23.651432627222086,
+        "large_face_density_min": 217.06333145453388,
+        "large_face_density_max": 512.0045278407637,
+        "polygons_below_area_eps": [],
+        "area_within_10_percent": 0.0005842568263076942,
+        "primary_area": 22.140189872006886,
+        "primary_area_within_10_percent": 0,
+        "v_outside_unit_range": 0,
+        "u_range": [
+          0.003906233236193657,
+          0.9886578321456909
+        ]
+      }
+    },
+    "objects": {},
+    "unique_bake_overlap_pairs": 0,
+    "material_slots": 0,
+    "uv2_bounds_violations": 0,
+    "trim_v_guard_violations": 0
+  }
+}

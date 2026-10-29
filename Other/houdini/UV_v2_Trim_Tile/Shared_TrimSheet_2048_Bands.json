@@ -1,0 +1,71 @@
+{
+  "resolution": 2048,
+  "pixels_per_meter": 512,
+  "guard_pixels_per_edge": 8,
+  "bands": [
+    {
+      "id": 0,
+      "name": "FLAT FIELDS / END CAPS",
+      "start_pixel_from_bottom": 0,
+      "height_pixels": 512,
+      "content_v_min": 0.00390625,
+      "content_v_max": 0.24609375
+    },
+    {
+      "id": 1,
+      "name": "MAIN CASING",
+      "start_pixel_from_bottom": 512,
+      "height_pixels": 512,
+      "content_v_min": 0.25390625,
+      "content_v_max": 0.49609375
+    },
+    {
+      "id": 2,
+      "name": "CORNICE / SILL",
+      "start_pixel_from_bottom": 1024,
+      "height_pixels": 384,
+      "content_v_min": 0.50390625,
+      "content_v_max": 0.68359375
+    },
+    {
+      "id": 3,
+      "name": "SASH / PANEL MOLDINGS",
+      "start_pixel_from_bottom": 1408,
+      "height_pixels": 256,
+      "content_v_min": 0.69140625,
+      "content_v_max": 0.80859375
+    },
+    {
+      "id": 4,
+      "name": "STADIUM GRILLE",
+      "start_pixel_from_bottom": 1664,
+      "height_pixels": 128,
+      "content_v_min": 0.81640625,
+      "content_v_max": 0.87109375
+    },
+    {
+      "id": 5,
+      "name": "LOUVER BLADES",
+      "start_pixel_from_bottom": 1792,
+      "height_pixels": 128,
+      "content_v_min": 0.87890625,
+      "content_v_max": 0.93359375
+    },
+    {
+      "id": 6,
+      "name": "FINE BEAD - RESERVE",
+      "start_pixel_from_bottom": 1920,
+      "height_pixels": 64,
+      "content_v_min": 0.94140625,
+      "content_v_max": 0.96484375
+    },
+    {
+      "id": 7,
+      "name": "ACCESSORY - RESERVE",
+      "start_pixel_from_bottom": 1984,
+      "height_pixels": 64,
+      "content_v_min": 0.97265625,
+      "content_v_max": 0.99609375
+    }
+  ]
+}

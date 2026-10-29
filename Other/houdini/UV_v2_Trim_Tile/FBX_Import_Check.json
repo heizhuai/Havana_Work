@@ -1,0 +1,28 @@
+{
+  "B01_Door_01": {
+    "mesh_count": 22,
+    "material_slots": 0,
+    "uv_channels": [
+      [
+        "UV0_TrimSheet",
+        "UV1_Tile",
+        "UV2_UniqueBake"
+      ]
+    ],
+    "vertices": 13902,
+    "polygons": 13497
+  },
+  "B01_Window_01": {
+    "mesh_count": 28,
+    "material_slots": 0,
+    "uv_channels": [
+      [
+        "UV0_TrimSheet",
+        "UV1_Tile",
+        "UV2_UniqueBake"
+      ]
+    ],
+    "vertices": 14122,
+    "polygons": 13703
+  }
+}
