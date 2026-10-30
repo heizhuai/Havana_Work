@@ -1,0 +1,19 @@
+{
+  "blend_reopened": true,
+  "asset_count": 11,
+  "assembly_objects": 43,
+  "exports": {
+    "fbx": {
+      "count": 11,
+      "nonempty": true
+    },
+    "glb": {
+      "count": 11,
+      "nonempty": true
+    },
+    "obj": {
+      "count": 11,
+      "nonempty": true
+    }
+  }
+}

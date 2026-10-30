@@ -1,0 +1,277 @@
+[
+  {
+    "id": "T01",
+    "name": "T01_Plain_Wall",
+    "vertices": 64,
+    "triangles": 120,
+    "polygons": 60,
+    "nonmanifold_edges": 0,
+    "degenerate_faces": 0,
+    "uv_layers": [
+      "UV0",
+      "UV1_Lightmap"
+    ],
+    "uv_min": 0.008702671155333519,
+    "uv_max": 0.9805462956428528,
+    "actual_bounds_m": [
+      4.0,
+      0.7,
+      6.4
+    ],
+    "nominal_dimensions_m": [
+      4.0,
+      0.5,
+      6.4
+    ]
+  },
+  {
+    "id": "T02",
+    "name": "T02_Double_Arch_Wall",
+    "vertices": 644,
+    "triangles": 1176,
+    "polygons": 560,
+    "nonmanifold_edges": 0,
+    "degenerate_faces": 0,
+    "uv_layers": [
+      "UV0",
+      "UV1_Lightmap"
+    ],
+    "uv_min": 0.007999964989721775,
+    "uv_max": 0.9880019426345825,
+    "actual_bounds_m": [
+      4.0,
+      0.7,
+      7.2
+    ],
+    "nominal_dimensions_m": [
+      4.0,
+      0.5,
+      7.2
+    ]
+  },
+  {
+    "id": "T03",
+    "name": "T03_Bell_Stage_Wall",
+    "vertices": 268,
+    "triangles": 524,
+    "polygons": 262,
+    "nonmanifold_edges": 0,
+    "degenerate_faces": 0,
+    "uv_layers": [
+      "UV0",
+      "UV1_Lightmap"
+    ],
+    "uv_min": 0.0079999640583992,
+    "uv_max": 0.9919956922531128,
+    "actual_bounds_m": [
+      4.0,
+      0.7,
+      5.8
+    ],
+    "nominal_dimensions_m": [
+      4.0,
+      0.5,
+      5.8
+    ]
+  },
+  {
+    "id": "T04",
+    "name": "T04_Pilaster_Trim",
+    "vertices": 44,
+    "triangles": 84,
+    "polygons": 42,
+    "nonmanifold_edges": 0,
+    "degenerate_faces": 0,
+    "uv_layers": [
+      "UV0",
+      "UV1_Lightmap"
+    ],
+    "uv_min": 0.00799999013543129,
+    "uv_max": 0.9920001029968262,
+    "actual_bounds_m": [
+      0.6,
+      0.24,
+      5.5
+    ],
+    "nominal_dimensions_m": [
+      0.4,
+      0.12,
+      5.5
+    ]
+  },
+  {
+    "id": "T05",
+    "name": "T05_L_Wall_Corner",
+    "vertices": 78,
+    "triangles": 148,
+    "polygons": 70,
+    "nonmanifold_edges": 0,
+    "degenerate_faces": 0,
+    "uv_layers": [
+      "UV0",
+      "UV1_Lightmap"
+    ],
+    "uv_min": 0.007999980822205544,
+    "uv_max": 0.9787547588348389,
+    "actual_bounds_m": [
+      1.4,
+      1.4,
+      6.4
+    ],
+    "nominal_dimensions_m": [
+      1.2,
+      1.2,
+      6.4
+    ]
+  },
+  {
+    "id": "T06",
+    "name": "T06_Cornice_Straight",
+    "vertices": 44,
+    "triangles": 84,
+    "polygons": 42,
+    "nonmanifold_edges": 0,
+    "degenerate_faces": 0,
+    "uv_layers": [
+      "UV0",
+      "UV1_Lightmap"
+    ],
+    "uv_min": 0.007999944500625134,
+    "uv_max": 0.9920001029968262,
+    "actual_bounds_m": [
+      4.0,
+      0.7,
+      0.65
+    ],
+    "nominal_dimensions_m": [
+      4.0,
+      0.5,
+      0.65
+    ]
+  },
+  {
+    "id": "T07",
+    "name": "T07_Cornice_Corner",
+    "vertices": 66,
+    "triangles": 128,
+    "polygons": 62,
+    "nonmanifold_edges": 0,
+    "degenerate_faces": 0,
+    "uv_layers": [
+      "UV0",
+      "UV1_Lightmap"
+    ],
+    "uv_min": 0.007999954745173454,
+    "uv_max": 0.9912031292915344,
+    "actual_bounds_m": [
+      1.4,
+      1.4,
+      0.65
+    ],
+    "nominal_dimensions_m": [
+      1.2,
+      1.2,
+      0.65
+    ]
+  },
+  {
+    "id": "T08",
+    "name": "T08_Curved_Gable",
+    "vertices": 286,
+    "triangles": 524,
+    "polygons": 212,
+    "nonmanifold_edges": 0,
+    "degenerate_faces": 0,
+    "uv_layers": [
+      "UV0",
+      "UV1_Lightmap"
+    ],
+    "uv_min": 0.00803405698388815,
+    "uv_max": 0.9895287156105042,
+    "actual_bounds_m": [
+      4.41,
+      0.66,
+      1.94
+    ],
+    "nominal_dimensions_m": [
+      4.4,
+      0.5,
+      2.0
+    ]
+  },
+  {
+    "id": "T09",
+    "name": "T09_Seven_Bar_Grille",
+    "vertices": 240,
+    "triangles": 388,
+    "polygons": 166,
+    "nonmanifold_edges": 0,
+    "degenerate_faces": 0,
+    "uv_layers": [
+      "UV0",
+      "UV1_Lightmap"
+    ],
+    "uv_min": 0.007999983616173267,
+    "uv_max": 0.9920001029968262,
+    "actual_bounds_m": [
+      1.06,
+      0.07,
+      0.66
+    ],
+    "nominal_dimensions_m": [
+      1.06,
+      0.07,
+      0.66
+    ]
+  },
+  {
+    "id": "T10",
+    "name": "T10_Bell_and_Yoke",
+    "vertices": 900,
+    "triangles": 1740,
+    "polygons": 822,
+    "nonmanifold_edges": 0,
+    "degenerate_faces": 0,
+    "uv_layers": [
+      "UV0",
+      "UV1_Lightmap"
+    ],
+    "uv_min": 0.008000005967915058,
+    "uv_max": 0.9894221425056458,
+    "actual_bounds_m": [
+      2.12,
+      1.46,
+      2.1053
+    ],
+    "nominal_dimensions_m": [
+      2.12,
+      1.46,
+      2.14
+    ]
+  },
+  {
+    "id": "T11",
+    "name": "T11_Summit_Weather_Vane",
+    "vertices": 326,
+    "triangles": 616,
+    "polygons": 267,
+    "nonmanifold_edges": 0,
+    "degenerate_faces": 0,
+    "uv_layers": [
+      "UV0",
+      "UV1_Lightmap"
+    ],
+    "uv_min": 0.007999986410140991,
+    "uv_max": 0.9913042187690735,
+    "actual_bounds_m": [
+      0.965,
+      0.64,
+      2.58
+    ],
+    "nominal_dimensions_m": [
+      0.94,
+      0.64,
+      2.58
+    ]
+  }
+]

@@ -1,0 +1,200 @@
+[
+  {
+    "file": "T01_Plain_Wall.glb",
+    "mesh_count": 1,
+    "triangles": 120,
+    "expected_triangles": 120,
+    "uv0_and_uv1_present": true,
+    "bounds_error_m": 0.0,
+    "pass": true
+  },
+  {
+    "file": "T02_Double_Arch_Wall.glb",
+    "mesh_count": 1,
+    "triangles": 1176,
+    "expected_triangles": 1176,
+    "uv0_and_uv1_present": true,
+    "bounds_error_m": 0.0,
+    "pass": true
+  },
+  {
+    "file": "T03_Bell_Stage_Wall.glb",
+    "mesh_count": 1,
+    "triangles": 524,
+    "expected_triangles": 524,
+    "uv0_and_uv1_present": true,
+    "bounds_error_m": 0.0,
+    "pass": true
+  },
+  {
+    "file": "T04_Pilaster_Trim.glb",
+    "mesh_count": 1,
+    "triangles": 84,
+    "expected_triangles": 84,
+    "uv0_and_uv1_present": true,
+    "bounds_error_m": 0.0,
+    "pass": true
+  },
+  {
+    "file": "T05_L_Wall_Corner.glb",
+    "mesh_count": 1,
+    "triangles": 148,
+    "expected_triangles": 148,
+    "uv0_and_uv1_present": true,
+    "bounds_error_m": 0.0,
+    "pass": true
+  },
+  {
+    "file": "T06_Cornice_Straight.glb",
+    "mesh_count": 1,
+    "triangles": 84,
+    "expected_triangles": 84,
+    "uv0_and_uv1_present": true,
+    "bounds_error_m": 0.0,
+    "pass": true
+  },
+  {
+    "file": "T07_Cornice_Corner.glb",
+    "mesh_count": 1,
+    "triangles": 128,
+    "expected_triangles": 128,
+    "uv0_and_uv1_present": true,
+    "bounds_error_m": 0.0,
+    "pass": true
+  },
+  {
+    "file": "T08_Curved_Gable.glb",
+    "mesh_count": 1,
+    "triangles": 524,
+    "expected_triangles": 524,
+    "uv0_and_uv1_present": true,
+    "bounds_error_m": 0.0,
+    "pass": true
+  },
+  {
+    "file": "T09_Seven_Bar_Grille.glb",
+    "mesh_count": 1,
+    "triangles": 388,
+    "expected_triangles": 388,
+    "uv0_and_uv1_present": true,
+    "bounds_error_m": 0.0,
+    "pass": true
+  },
+  {
+    "file": "T10_Bell_and_Yoke.glb",
+    "mesh_count": 1,
+    "triangles": 1740,
+    "expected_triangles": 1740,
+    "uv0_and_uv1_present": true,
+    "bounds_error_m": 3.7e-05,
+    "pass": true
+  },
+  {
+    "file": "T11_Summit_Weather_Vane.glb",
+    "mesh_count": 1,
+    "triangles": 616,
+    "expected_triangles": 616,
+    "uv0_and_uv1_present": true,
+    "bounds_error_m": 0.0,
+    "pass": true
+  },
+  {
+    "file": "T01_Plain_Wall.fbx",
+    "mesh_count": 1,
+    "triangles": 120,
+    "expected_triangles": 120,
+    "uv0_and_uv1_present": true,
+    "bounds_error_m": 0.0,
+    "pass": true
+  },
+  {
+    "file": "T02_Double_Arch_Wall.fbx",
+    "mesh_count": 1,
+    "triangles": 1176,
+    "expected_triangles": 1176,
+    "uv0_and_uv1_present": true,
+    "bounds_error_m": 1e-06,
+    "pass": true
+  },
+  {
+    "file": "T03_Bell_Stage_Wall.fbx",
+    "mesh_count": 1,
+    "triangles": 524,
+    "expected_triangles": 524,
+    "uv0_and_uv1_present": true,
+    "bounds_error_m": 1e-06,
+    "pass": true
+  },
+  {
+    "file": "T04_Pilaster_Trim.fbx",
+    "mesh_count": 1,
+    "triangles": 84,
+    "expected_triangles": 84,
+    "uv0_and_uv1_present": true,
+    "bounds_error_m": 1e-06,
+    "pass": true
+  },
+  {
+    "file": "T05_L_Wall_Corner.fbx",
+    "mesh_count": 1,
+    "triangles": 148,
+    "expected_triangles": 148,
+    "uv0_and_uv1_present": true,
+    "bounds_error_m": 0.0,
+    "pass": true
+  },
+  {
+    "file": "T06_Cornice_Straight.fbx",
+    "mesh_count": 1,
+    "triangles": 84,
+    "expected_triangles": 84,
+    "uv0_and_uv1_present": true,
+    "bounds_error_m": 0.0,
+    "pass": true
+  },
+  {
+    "file": "T07_Cornice_Corner.fbx",
+    "mesh_count": 1,
+    "triangles": 128,
+    "expected_triangles": 128,
+    "uv0_and_uv1_present": true,
+    "bounds_error_m": 0.0,
+    "pass": true
+  },
+  {
+    "file": "T08_Curved_Gable.fbx",
+    "mesh_count": 1,
+    "triangles": 524,
+    "expected_triangles": 524,
+    "uv0_and_uv1_present": true,
+    "bounds_error_m": 0.0,
+    "pass": true
+  },
+  {
+    "file": "T09_Seven_Bar_Grille.fbx",
+    "mesh_count": 1,
+    "triangles": 388,
+    "expected_triangles": 388,
+    "uv0_and_uv1_present": true,
+    "bounds_error_m": 0.0,
+    "pass": true
+  },
+  {
+    "file": "T10_Bell_and_Yoke.fbx",
+    "mesh_count": 1,
+    "triangles": 1740,
+    "expected_triangles": 1740,
+    "uv0_and_uv1_present": true,
+    "bounds_error_m": 3.7e-05,
+    "pass": true
+  },
+  {
+    "file": "T11_Summit_Weather_Vane.fbx",
+    "mesh_count": 1,
+    "triangles": 616,
+    "expected_triangles": 616,
+    "uv0_and_uv1_present": true,
+    "bounds_error_m": 0.0,
+    "pass": true
+  }
+]

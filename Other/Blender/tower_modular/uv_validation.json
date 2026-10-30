@@ -1,0 +1,79 @@
+[
+  {
+    "name": "T01_Plain_Wall",
+    "uv_zero_area_triangles": 0,
+    "uv_overlapping_triangle_pairs": 0,
+    "uv_coverage_percent": 67.86,
+    "texel_density_2048_median": 205.36
+  },
+  {
+    "name": "T02_Double_Arch_Wall",
+    "uv_zero_area_triangles": 0,
+    "uv_overlapping_triangle_pairs": 0,
+    "uv_coverage_percent": 51.01,
+    "texel_density_2048_median": 160.06
+  },
+  {
+    "name": "T03_Bell_Stage_Wall",
+    "uv_zero_area_triangles": 0,
+    "uv_overlapping_triangle_pairs": 0,
+    "uv_coverage_percent": 43.4,
+    "texel_density_2048_median": 165.79
+  },
+  {
+    "name": "T04_Pilaster_Trim",
+    "uv_zero_area_triangles": 0,
+    "uv_overlapping_triangle_pairs": 0,
+    "uv_coverage_percent": 20.48,
+    "texel_density_2048_median": 370.07
+  },
+  {
+    "name": "T05_L_Wall_Corner",
+    "uv_zero_area_triangles": 0,
+    "uv_overlapping_triangle_pairs": 0,
+    "uv_coverage_percent": 63.22,
+    "texel_density_2048_median": 272.77
+  },
+  {
+    "name": "T06_Cornice_Straight",
+    "uv_zero_area_triangles": 0,
+    "uv_overlapping_triangle_pairs": 0,
+    "uv_coverage_percent": 68.07,
+    "texel_density_2048_median": 503.81
+  },
+  {
+    "name": "T07_Cornice_Corner",
+    "uv_zero_area_triangles": 0,
+    "uv_overlapping_triangle_pairs": 0,
+    "uv_coverage_percent": 51.28,
+    "texel_density_2048_median": 591.81
+  },
+  {
+    "name": "T08_Curved_Gable",
+    "uv_zero_area_triangles": 0,
+    "uv_overlapping_triangle_pairs": 0,
+    "uv_coverage_percent": 57.66,
+    "texel_density_2048_median": 300.5
+  },
+  {
+    "name": "T09_Seven_Bar_Grille",
+    "uv_zero_area_triangles": 0,
+    "uv_overlapping_triangle_pairs": 0,
+    "uv_coverage_percent": 62.24,
+    "texel_density_2048_median": 1515.5
+  },
+  {
+    "name": "T10_Bell_and_Yoke",
+    "uv_zero_area_triangles": 0,
+    "uv_overlapping_triangle_pairs": 0,
+    "uv_coverage_percent": 42.38,
+    "texel_density_2048_median": 367.99
+  },
+  {
+    "name": "T11_Summit_Weather_Vane",
+    "uv_zero_area_triangles": 0,
+    "uv_overlapping_triangle_pairs": 0,
+    "uv_coverage_percent": 44.33,
+    "texel_density_2048_median": 765.93
+  }
+]
