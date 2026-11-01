@@ -41,3 +41,7 @@ Saved/Autosaves/
 
 # --- WorkBuddy local memory / workspace data (not part of the project) ---
 .workbuddy/
+
+# --- Houdini auto-backup folder (never commit) ---
+# Houdini writes _bak*.hip auto-saves here; local temp files, not source.
+Other/houdini/backup/
